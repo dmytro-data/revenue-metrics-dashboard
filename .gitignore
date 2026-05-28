@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (если решишь добавить позже)
+*.csv
+*.xlsx
+*.xls
+
+# Tableau backups
+*.twbr
+
+# Environment
+.env
